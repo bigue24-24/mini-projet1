@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.122.0">
-    <title>Gestion Commandes</title>
+    <title>Gestion_Commandes</title>
 
     <link rel="canonical" href="https://getbootstrap.comhttps://getbootstrap.com/docs/5.3/examples/sticky-footer-navbar/">
 
